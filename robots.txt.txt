@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evakuator-dnipro.vercel.app/sitemap.xml
